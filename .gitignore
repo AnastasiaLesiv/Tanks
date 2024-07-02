@@ -1,0 +1,13 @@
+.collabignore
+.idea/
+.vscode/
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+Library/
+Logs/
+Tanks.sln
+Temp/
+UserSettings/
+mono_crash.mem.10651.1.blob
+obj/
+
