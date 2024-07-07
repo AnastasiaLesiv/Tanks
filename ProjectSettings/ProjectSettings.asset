@@ -907,10 +907,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 5812b407-b8da-48bd-bbb1-dd82cf8f3822
+  cloudProjectId: 7a0b15ab-100c-4d77-9705-39f87f2dcd78
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Tanks
+  projectName: Tanks 2024-07-04_22-40-57
   organizationId: unity_07d073057dd7199f2bdf
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
